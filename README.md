@@ -1,0 +1,2 @@
+# WerBeginnt
+Determines a winner
